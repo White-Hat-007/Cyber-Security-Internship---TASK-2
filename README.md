@@ -65,11 +65,3 @@ To maintain formatting integrity, the phishing email body is provided below as a
 This email exhibits **classic phishing traits**, including spoofed domains, suspicious sender details, likely malicious links/attachments, and lack of proper authentication (SPF/DKIM). Such emails are designed to steal credentials or install malware and should be reported and deleted immediately.
 
 ---
-
-## 📂 File Structure
-
-```bash
-📁 Cyber-Security-Internship---TASK-2/
-├── Microsoft Phishing Email Example.png
-├── MxToolbox Header Analyzed.png
-└── README.md
