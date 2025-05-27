@@ -36,9 +36,13 @@ To analyze a suspicious email and identify signs of phishing by examining email 
 - **Spoofed From Address:** `security-update@micros0ft-support.com`
 - **Suspicious Domain:** Not a verified Microsoft domain.
 
-### 📸 Screenshots:
-- `Microsoft Phishing Email Example.png` – Shows spoofed sender.
-- `MxToolbox Header Analyzed.png` – Confirms phishing characteristics.
+---
+
+## 🖼️ Full Email Body (Visual Reference)
+
+To maintain formatting integrity, the phishing email body is provided below as an image:
+
+- `Microsoft Phishing Email Example.png` — Displays the complete body of the phishing email for visual analysis.
 
 ---
 
