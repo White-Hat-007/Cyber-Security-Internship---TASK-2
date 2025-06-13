@@ -65,3 +65,11 @@ To maintain formatting integrity, the phishing email body is provided below as a
 This email exhibits **classic phishing traits**, including spoofed domains, suspicious sender details, likely malicious links/attachments, and lack of proper authentication (SPF/DKIM). Such emails are designed to steal credentials or install malware and should be reported and deleted immediately.
 
 ---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
